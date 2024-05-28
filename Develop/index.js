@@ -59,6 +59,14 @@ function init() {
         const readmeContent = `
 # ${answers.title}
 
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
+
 ## Description
 ${answers.description}
 
