@@ -1,5 +1,10 @@
 
-# a;lsdkf
+# README creator
+
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
+## Description
+
 
 ## Table of Contents
 - [Installation](#installation)
@@ -9,20 +14,22 @@
 - [Tests](#tests)
 - [Questions](#questions)
 
-## Description
-asjfklaksjdf
-
 ## Installation
-laksdjflkasjf
+
 
 ## Usage
-alksdjfklasdjf
+
 
 ## License
-Apache License 2.0
+This project is licensed under the GNU General Public License v3.0 license. Click [here](https://www.gnu.org/licenses/gpl-3.0) for more details.
 
 ## Contributing
-laskdnflk;ajf
+add to it all you want
 
 ## Tests
-lkasdjfkladsjf
+be careful, dont download sketchy things
+
+## Questions
+For additional information, contact me using the following links:
+GitHub: [melivesel](https://github.com/melivesel)
+Email: melivesel@gmail.com
