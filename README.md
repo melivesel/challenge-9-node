@@ -7,12 +7,17 @@ This program uses the node extension inquirer to take user input and use it to c
 ## Usage
 Input your information to automatically generate a professional and intuitive README page. It automatically generates a table of contents for simple navigation. You have three choices of license, whichever you choose will appear as a badge at the top of the page. When you add your contact info, it formats as a clickable link for ease of use. 
 
- ![alt text](./images/screenshot.png)
+ ![readme image](./images/screenshot.png)
+
+
+Video Walkthrough of Usage hosted on Google Drive: 
+
+[README Creator Walkthrough](https://drive.google.com/file/d/19pfozWuTdV14tfLJmDhdjPX2Np68jTlO/view)
 
 ## Credits
 
 edX bootcamp learning materials
-https://www.npmjs.com/package/inquirer
+(https://www.npmjs.com/package/inquirer)
 edX Xpert learning assistant
 
 ## License
